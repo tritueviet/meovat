@@ -1,0 +1,45 @@
+<!-- Demo data xml MeoVat category-->
+<Categories>
+  <Category>
+    <ID>0</ID>
+    <CategoryName>sức khỏe</CategoryName>
+	<CategoryPath>/meo/suckhoe.xml</CategoryPath>   
+        <ImagePath>/images/Untitled-1.png</ImagePath>
+  </Category>
+  
+  <Category>
+    <ID>1</ID>
+    <CategoryName>nấu ăn</CategoryName>
+	<CategoryPath>/meo/nauan.xml</CategoryPath>
+        <ImagePath>/images/Untitled-2.png</ImagePath>
+  </Category>
+  
+  <Category>
+    <ID>2</ID>
+    <CategoryName>vật dụng</CategoryName>
+	<CategoryPath>/meo/vatdung.xml</CategoryPath> 
+        <ImagePath>/images/Untitled-3.png</ImagePath>
+  </Category>
+  
+  <Category>
+    <ID>3</ID>
+    <CategoryName>trang trí</CategoryName>
+	<CategoryPath>/meo/trangtri.xml</CategoryPath> 
+        <ImagePath>/images/Untitled-4.png</ImagePath>
+  </Category>
+  
+  <Category>
+    <ID>4</ID>
+    <CategoryName>làm đẹp</CategoryName>
+	<CategoryPath>/meo/lamdep.xml</CategoryPath> 
+        <ImagePath>/images/Untitled-5.png</ImagePath>
+  </Category>
+  
+  <Category>
+    <ID>5</ID>
+    <CategoryName>công việc</CategoryName>
+	<CategoryPath>/meo/congviec.xml</CategoryPath>  
+        <ImagePath>/images/Untitled-6.png</ImagePath>
+  </Category>
+  
+</Categories>
